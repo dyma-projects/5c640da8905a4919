@@ -19,7 +19,7 @@ Puis lancer le serveur de développement avec :
 * [ * ] Créer, dans le répertoire app, un composant avec le nom : "exercice1".
 * [ * ] Ajouter ce composant dans le composant "app".
 * [ ] Dans ce composant, mettez en place trois exemples de liaison. Un sur un attribut avec [], un autre sur un évènement avec () et le dernier avec une interpolation de variable {{ }}.
-* [ ] Un clic sur le composant "exercice2" doit afficher "clic" dans la console.
+* [ * ] Un clic sur le composant "exercice2" doit afficher "clic" dans la console.
 * [ ] Créer, dans le répertoire app, un composant avec le nom : "exercice3".
 * [ ] Ajouter ce composant dans le composant "app".
 * [ ] Dans le template de ce composant, mettre deux paragraphes avec comme contenu 'p1' et 'p2'      
