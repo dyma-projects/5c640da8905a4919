@@ -7,6 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class Exercice3Component implements OnInit {
 
+  public statut: boolean = true;
+
   constructor() { }
 
   ngOnInit() {

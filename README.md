@@ -23,10 +23,10 @@ Puis lancer le serveur de développement avec :
 * [ * ] Créer, dans le répertoire app, un composant avec le nom : "exercice3".
 * [ * ] Ajouter ce composant dans le composant "app".
 * [ * ] Dans le template de ce composant, mettre deux paragraphes avec comme contenu 'p1' et 'p2'      
-* [ ] Ajouter dans le composant un attribut 'statut', de type boolean, initialisé à TRUE.
-* [ ] Ajouter dans le composant un bouton.
-* [ ] Un clic sur le bouton doit inverser la valeur de l'attribut 'statut'.
-* [ ] Si statut est à TRUE, le paragraphe contenant 'p1' doit être affiché, sinon c'est le paragraphe p2 quoi l'être.
+* [ * ] Ajouter dans le composant un attribut 'statut', de type boolean, initialisé à TRUE.
+* [ * ] Ajouter dans le composant un bouton.
+* [ * ] Un clic sur le bouton doit inverser la valeur de l'attribut 'statut'.
+* [ * ] Si statut est à TRUE, le paragraphe contenant 'p1' doit être affiché, sinon c'est le paragraphe p2 quoi l'être.
 * [ * ] Créer, dans le répertoire app, un composant avec le nom : "exercice4".
 * [ * ] Ajouter ce composant dans le composant "app".
 * [ ] Dans la classe de ce composant, ajouter une propriété 'texts' de type tableau de chaîne de caractères. Assigner à cette propriété trois chaînes de caractères contenant les valeurs 'un', 'deux' et 'trois'.
