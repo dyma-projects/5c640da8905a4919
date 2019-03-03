@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { TextAst } from '@angular/compiler';
 
 @Component({
   selector: 'app-exercice4',
@@ -7,9 +8,14 @@ import { Component, OnInit } from '@angular/core';
 })
 export class Exercice4Component implements OnInit {
 
+  public texts: Array<string> = new Array<string>();
+
   constructor() { }
 
   ngOnInit() {
+    this.texts.push('un');
+    this.texts.push('deux');
+    this.texts.push('trois');
   }
 
 }

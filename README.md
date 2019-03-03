@@ -29,8 +29,8 @@ Puis lancer le serveur de développement avec :
 * [ * ] Si statut est à TRUE, le paragraphe contenant 'p1' doit être affiché, sinon c'est le paragraphe p2 quoi l'être.
 * [ * ] Créer, dans le répertoire app, un composant avec le nom : "exercice4".
 * [ * ] Ajouter ce composant dans le composant "app".
-* [ ] Dans la classe de ce composant, ajouter une propriété 'texts' de type tableau de chaîne de caractères. Assigner à cette propriété trois chaînes de caractères contenant les valeurs 'un', 'deux' et 'trois'.
-* [ ] Utiliser une liste 'ul' et afficher tous les éléments du tableau 'texts' dans des balises 'li'.
+* [ * ] Dans la classe de ce composant, ajouter une propriété 'texts' de type tableau de chaîne de caractères. Assigner à cette propriété trois chaînes de caractères contenant les valeurs 'un', 'deux' et 'trois'.
+* [ * ] Utiliser une liste 'ul' et afficher tous les éléments du tableau 'texts' dans des balises 'li'.
       
 ## Avant de finir le projet
 
